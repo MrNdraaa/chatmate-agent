@@ -10,3 +10,5 @@ app.get("/", (req, res) => {
     message: "Hello! I'm your Recall Network social & chat agent 🚀"
   });
 });
+
+export default app;
