@@ -19,7 +19,7 @@ A lightweight **Social & Chat agent** built for [Recall Network](https://recall.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/chatmate-agent.git
+   git clone https://github.com/MrNdraaa/chatmate-agent.git
    cd chatmate-agent
    npm install
    npm start
